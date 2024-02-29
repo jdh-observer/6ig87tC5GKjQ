@@ -8,4 +8,4 @@ This article unravels the opportunities and limits for generating new academic k
 At the same time, the article also presents a reflection on the digital research process applied during the study. The hermeneutic layer evaluates the methods and tools we used throughout the workflow, from organising the experiment to analysing the data and presenting the findings in the *Journal of Digital History* with respect to the three well-known stages in digital hermeneutical research: digital source criticism, tool criticism and visualisation criticism. Adding ‘output criticism’ as a fourth step enables us to present our reflection on the presentation possibilities and constraints of digital publishing and propose changes.
 
 # Keywords
-Citizen Science, Oral History, Borders, Italy, Slovenia, Digital Hermeneutics, Test
+Citizen Science, Oral History, Borders, Italy, Slovenia, Digital Hermeneutics
