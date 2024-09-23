@@ -23,16 +23,18 @@ Citizen Science, Oral History, Borders, Italy, Slovenia, Digital Hermeneutics
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### Anonym
+### Machteld Venken [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0358-0827)
+University of Luxembourg
 <!-- #endregion -->
 
 <!-- #region tags=["contributor"] -->
-### Anonym
+### Johanna Jaschik [![orcid](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-0197-6748)
+University of Luxembourg
 <!-- #endregion -->
 
 <!-- #region tags=["copyright"] -->
  [![cc-by](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
-©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
+© Machteld Venken - Johanna Jaschik. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
 <!-- #endregion -->
 
 <!-- #region tags=["copyright"] -->
