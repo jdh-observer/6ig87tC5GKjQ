@@ -6,7 +6,7 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.16.4
+      jupytext_version: 1.14.4
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
@@ -64,7 +64,7 @@ Today, oral history research projects in partnership with community groups are e
 Without downplaying the ‘general enthusiasm over citizen science’, Riesch and Potter insist on the need to investigate ‘potential pitfalls’ of the discipline. The ‘Talking Borders’ experiment contributed to that endeavour. The border between expertise and experience was thematised by inviting citizen scientists to an academic conference to discuss their understanding of borders. We define borders as ‘typically rooted in historically constructed structures of meanings labelled […] as discursive landscapes of social power’. (<cite data-cite="8820477/7R9HBA6T"></cite>, 116). In addition, we use digital hermeneutics in order to bring us closer to understanding the limits of public expertise by articulating ‘the “interventions” of the digital into historical practices’ by means of a ‘critical engagement with digital infrastructures, data and tools’ (<cite data-cite="8820477/Q827WAU3"></cite>, 7). Our approach enables us to reveal the relevance of the past for meaning-making purposes in the present. Indeed, in turning the Association for Borderlands Studies Second World Conference into a platform for a citizen science experiment, the Talking Borders project aimed to apply border research:
 
 
-> Border research then takes on an applied dimension, as we seek to discover, and promote, those mechanisms which enable borders to be opened, reducing the frictions and tensions of socially constructed difference. This is the desire to “overcome” borders through reimagining them as places where people can meet, to overcome the social construction of spatial fixation (<cite data-cite="8820477/X9UECV7S"></cite>). This is a major challenge of border research – to understand the functional impact and role of borders in a world which has become more spatially flexible, where territory and group affiliations and identities are undergoing a process of internal restructuring. (<cite data-cite="8820477/QDMEEP3Q"></cite>, 23)
+> Border research then takes on an applied dimension, as we seek to discover, and promote, those mechanisms which enable borders to be opened, reducing the frictions and tensions of socially constructed difference. This is the desire to “overcome” borders through reimagining them as places where people can meet, to overcome the social construction of spatial fixation (<cite data-cite="8918850/M3C5QNR7"></cite>). This is a major challenge of border research – to understand the functional impact and role of borders in a world which has become more spatially flexible, where territory and group affiliations and identities are undergoing a process of internal restructuring. (<cite data-cite="8820477/QDMEEP3Q"></cite>, 23)
 
 
 
