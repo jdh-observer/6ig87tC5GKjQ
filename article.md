@@ -37,11 +37,6 @@ University of Luxembourg
 © Machteld Venken - Johanna Jaschik. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY](https://creativecommons.org/licenses/by/4.0/)
 <!-- #endregion -->
 
-<!-- #region tags=["copyright"] -->
- [![cc-by-nc-nd](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-©<AUTHOR or ORGANIZATION / FUNDER>. Published by De Gruyter in cooperation with the University of Luxembourg Centre for Contemporary and Digital History. This is an Open Access article distributed under the terms of the [Creative Commons Attribution License CC-BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-<!-- #endregion -->
-
 <!-- #region tags=["abstract"] -->
 This article unravels the opportunities and limits for generating new academic knowledge about the use of articulations of time in interviews conducted and produced by students. We narrate the experiences of a citizen scientist throughout an interdisciplinary experiment in which citizen scientists and border scholars expressed what borders mean to them. Analysing citizen scientist Termime’s (pseudonym) oral and written expressions as a case study with the help of Achim Landwehr’s concept of *Chronoferenzen* (chronoferencing), we decipher the intricate links citizen scientists identify between the past, the present and the future in the way they see borders within the three different genres practised during the experiment: a monologue, a dialogue and a digital café.
 
