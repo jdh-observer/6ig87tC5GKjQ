@@ -393,8 +393,20 @@ In the digital café, most comments were made by citizen scientist DeadSaint fro
 As Michael Frisch noted, the digital era brings ‘within reach all of the content and meanings in interviews not easily captured in transcription. Now we can see, hear, study, and select nuances that are not readily representable in transcripts, and often not lexical at all. This is what it means to say that the orality of oral history is moving excitingly back into primacy’ (<cite data-cite="8820477/RVAR4E8B"></cite>, 132). The software program Clarin Elan enabled analysis of the following parameters: intonation (affirmative, negation, excitement, etc.), exaggeration, repetition/clarification, emphasis, pauses and temporality. Working with the software was time-consuming, however, and we did not manage to work collaboratively within one digital working environment while being in different locations or to include different user statuses for the analysis of fragments, which would have enabled them to provide an Open Access version of pseudonymised fragments. We therefore opted to show readers and listeners an insight into our working method by means of this video:
 <!-- #endregion -->
 
-```python
+```python tags=[video-analyse-interview-fragment-software-*]
 from IPython.display import IFrame
+
+metadata = {
+    "jdh": {
+        "module": "object",
+        "object": {
+            "type": "video",
+            "source": [
+                "How to Analyse an Interview Fragment in the Software Program Clarin Elan"
+            ]
+        }
+    }
+}
 
 src_url = "https://cdnapisec.kaltura.com/p/2753661/sp/275366100/embedIframeJs/uiconf_id/45459391/partner_id/2753661?iframeembed=true&playerId=kaltura_player&entry_id=1_7uy0dr3v&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_gjkkigo5"
 IFrame(src_url, width=608, height=402)
