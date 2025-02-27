@@ -6,14 +6,14 @@ jupyter:
       extension: .md
       format_name: markdown
       format_version: '1.3'
-      jupytext_version: 1.16.7
+      jupytext_version: 1.16.6
   kernelspec:
     display_name: Python 3 (ipykernel)
     language: python
     name: python3
 ---
 
-<!-- #region citation-manager={"citations": {"": []}} tags=["title"] -->
+<!-- #region tags=["title"] -->
 # Chronoferencing the Italian-Slovenian Borderlands. Citizen Science, Oral History and Output Criticism
 
 <!-- #endregion -->
@@ -43,47 +43,56 @@ This article unravels the opportunities and limits for generating new academic k
 At the same time, the article also presents a reflection on the digital research process applied during the study. The hermeneutic layer evaluates the methods and tools we used throughout the workflow, from organising the experiment to analysing the oral data and presenting the findings in the *Journal of Digital History* with respect to the three well-known stages in digital hermeneutical research: digital source criticism, tool criticism and visualisation criticism. Adding ‘output criticism’ as a fourth step enables us to present our reflection on the presentation possibilities and constraints of digital publishing and propose changes.  
 <!-- #endregion -->
 
-<!-- #region tags=["narrative"] -->
+<!-- #region citation-manager={"citations": {"": []}} tags=["narrative"] -->
 ## Introducing the ‘Talking Borders’ Experiment
 
 How to consider new testimonies as a potential source of enquiry has long been a prevalent question within contemporary historiography. As Rizzo observed: ‘Rather than assuming that knowledge comes only from archives, official records, or outside observation, collaborating with community members recognizes that their lived experience is knowledge and has value’ (<cite data-cite="8820477/X8S2B2KD"></cite>). Oral historians and anthropologists, most prominently, consider narrators to be experts when it comes to their past lived experiences (<cite data-cite="8918850/WGVEPWZA"></cite>, 35). Within the citizen science experiment ‘Talking Borders. From Local Expertise to Global Exchange’, we considered Bachelor students in the humanities studying at universities in various border regions throughout the former Habsburg region as experts about daily life in the borderlands. To mark the hundredth anniversary of the dissolution of the Austro-Hungarian Empire, these citizen scientists were invited to participate in an exchange of ideas about international borders and the communities engendered by borders at the Second World Conference of the Association for Borderlands Studies (ABS) held in Vienna and Budapest in July 2018. We assumed that they would ‘bring a very real authority’ in giving meaning to the borders they encounter in their daily lives, an authority ‘grounded in a culture of experience’ (<cite data-cite="8820477/PASUJEDM"></cite>, xxii).
 
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 The digital era has offered new opportunities to share authority and stimulate an active dialogue between experience and expertise (<cite data-cite="8820477/RVAR4E8B"></cite>, 136). Within citizen science, researchers are currently investigating the border between expertise and experience, or, in other words, between the production and consumption of science. In a rare edited volume about citizen science in the humanities, Oswald and Smolarski wrote: ‘The [...] borders between professional research, which generates new knowledge, and the public, who consume this knowledge, were barely challenged during the first years of the social web.’(<cite data-cite="8820477/AVQJUUMG"></cite>, 12) Nowadays, however, these borders are pitched in projects in linguistics, archaeology, art and philosophy, as well as history. Citizen humanities offers great potential to include citizens beyond the data collection phase, because nuances, ambiguity and room for interpretation are characteristics that are at the essence of every research stage, from formulating a hypothesis to data collection to analysis and interpretation. One example is the German project ‘Kino in der DDR’, launched in 2020, which asked citizens for testimonies and historical objects reflecting personal memories and experiences of cinema visits in the GDR as a way of exploring the everyday history of cinema culture in communist East Germany. Such a project demonstrates how concerns that citizens may lack the required skills in academic research can be embraced as part of the scientific process. Citizens’ personal experiences and memories of cinema in the GDR as expressed in written and oral testimonies are considered fruitful ground for a variety of research questions (<cite data-cite="8820477/X2SCIUKM"></cite>). Such an approach of citizen science methodology moves beyond the conventional understanding of citizen scientists as actors who perform tasks of 'compiling, organising, analysing and sharing sources' (<cite data-cite="8918850/PPQDKB7W"></cite>, 6). Similar to the 'Kino in der DDR' project, the bachelor students in the Talking Borders experiment were regarded as actors with expertise, who were the creator of their own sources (<cite data-cite="8918850/GEPQU8AU"></cite>, 69–70).  
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Today, oral history research projects in partnership with community groups are experimenting to determine ‘the limits of what we can expect from public expertise and contributions’, as this has the potential to ‘drive methodological innovations as well as leave us in a better position to address potentially serious objections that are likely to be raised by the wider scientific community towards the use of publicly gathered data’. (Riesch and Potter, 116). These experiments range from offering intensive training to citizen scientists on how to conduct interviews to crowdsourcing by means of digitally self-recorded stories generated without the support of professional historians. ‘Talking Borders’ also offered training to citizen scientists during a try-out session the day before the experiment, but it did not provide more in-depth training on how to record each other’s stories, as was offered in the project ‘Surviving Katrina and Rita in Houston’ (<cite data-cite="8820477/2TWIE7HC"></cite>), for example. We asked citizen scientists to talk to each other and record their stories themselves, without the intervention of an historian, but in contrast to the idea of composing an open memory bank, for example, we selected a specific group of citizen scientists and provided the format of a one-hour conversation provoked by one question: ‘What does a border mean to you?’ (<cite data-cite="8820477/HD7TRXCH"></cite>).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Without downplaying the ‘general enthusiasm over citizen science’, Riesch and Potter insist on the need to investigate ‘potential pitfalls’ of the discipline. The ‘Talking Borders’ experiment contributed to that endeavour. The border between expertise and experience was thematised by inviting citizen scientists to an academic conference to discuss their understanding of borders. We define borders as ‘typically rooted in historically constructed structures of meanings labelled […] as discursive landscapes of social power’. (<cite data-cite="8820477/7R9HBA6T"></cite>, 116). In addition, we use digital hermeneutics in order to bring us closer to understanding the limits of public expertise by articulating ‘the “interventions” of the digital into historical practices’ by means of a ‘critical engagement with digital infrastructures, data and tools’ (<cite data-cite="8820477/Q827WAU3"></cite>, 7). Our approach enables us to reveal the relevance of the past for meaning-making purposes in the present. Indeed, in turning the Association for Borderlands Studies Second World Conference into a platform for a citizen science experiment, the Talking Borders project aimed to apply border research:
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 > Border research then takes on an applied dimension, as we seek to discover, and promote, those mechanisms which enable borders to be opened, reducing the frictions and tensions of socially constructed difference. This is the desire to “overcome” borders through reimagining them as places where people can meet, to overcome the social construction of spatial fixation (<cite data-cite="8918850/M3C5QNR7"></cite>). This is a major challenge of border research – to understand the functional impact and role of borders in a world which has become more spatially flexible, where territory and group affiliations and identities are undergoing a process of internal restructuring. (<cite data-cite="8820477/QDMEEP3Q"></cite>, 23)
 
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Could the spoken ideas gathered within Talking Borders be considered as oral history sources? As in oral history, our experiment facilitated an encounter. Alessandro Portelli referred to oral history as (<cite data-cite="8820477/HIZ25PXV"></cite>, 3) ‘what the source and the historian do together at the moment of their encounter in the interview’. Shopes (<cite data-cite="8820477/TZKQ8RTH"></cite>, 103) even stressed that it is a ‘dialogue that defines the interview process itself’. In this article, we demonstrate that the citizen scientists in the Talking Borders experiment expressed their thoughts about the meaning of their lives in borderlands through chronoferencing (<cite data-cite="8820477/RRDDC742"></cite>). Referencing the past was essential for them to understand their contemporary reality and project their imaginations for the future.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 The citizen scientists participating in Talking Borders grew up in borderlands witnessing the opening up of state borders following the collapse of communism and experiencing how EU expansion softened border regimes (<cite data-cite="8820477/S957L83I"></cite>, 1-2). They informed us about economic, cultural, political and social aspects of the transformation that took place within post-Soviet borderlands while recalling the everyday practices that they, their families and their acquaintances engaged in. They also expressed their historical knowledge about the borderlands where they came from, a knowledge that was concentrated more on the last 30 years than on earlier times. This observation was a surprise to us, as the citizen scientists had been recruited to participate in the experiment specifically to mark the hundredth anniversary of the dissolution of the Austro-Hungarian Empire.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 We distilled information about the way in which citizen scientists referenced time from the ideas they expressed during the experiment. As individuals, they live in a social setting, and, whether consciously or not, they exchange their representations with others. This is how people learn to gauge what practices are acceptable for the social group(s) they are part of, and what behaviour needs to be silenced for the sake of social group identification. People tend to practise the customs of their social group, although they are seldom aware of this (<cite data-cite="8820477/V4LJQEAY"></cite>). In this article, we assume that individual practices as expressed during the experiment are windows onto borderland communities in which what is characteristic for these communities becomes visible and comparable (<cite data-cite="8820477/JDSUQQE4"></cite>, 343). The experiment therefore enabled us to reconstruct the way in which time was referenced in the social borderland life-world during the transformation period.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 To attribute meaning to borders, the citizen scientists recalled their own and their relatives’ personal border experiences in the past, drew on border realities as shaped by geopolitical events and common regional border practices in the present, and used their past and present border experiences to make predictions about border regulations for the future. Achim Landwehr’s notion of ‘Chronoferenzen’ (<cite data-cite="8820477/RRDDC742"></cite>) encapsulates these multiple overlapping temporal layers. The concept of Chronoferenzen, derived from the Greek word chrono (time) and the Latin word referre (carry back), supports an analysis of the intricate links identified by citizen scientists between the past, the present and the future and the way in which these links influence their views of borders. Landwehr argues that individuals and groups use temporally absent imaginaries of the past and the future to attribute meaning to present realities, and he strives to include the analysis of such references in the study of the past:
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 ‘The notion of chronoference can help to overcome a practised dualism that is well established in historical work (academic and non-academic): the juxtaposition of present and past (or present and future) is usually assumed to be an integral part of our understanding of time. But in reality this dualism artificially separates something that cannot be separated in this form. “Past” is not simply the detached counterpart of a present that has to be painstakingly regained using historical methods. Rather, the “past” is always already part of a present description.’ (<cite data-cite="8820477/RRDDC742"></cite>, 249-250).
-
+<!-- #endregion -->
 
 Focusing on the simultaneity of multiple temporal layers allows us to approach our citizen scientists’ thoughts about borders from an angle of multiple temporalities (‘Vielzeitigkeit’); that is, to understand the parallel occurrence of different temporal dimensions in oral and written expression. In what follows, we investigate how citizen scientists related the past and future to the present and how temporal dimensions could occur parallel or in competition to each other. We also decipher how citizen scientists navigated differences when expressing their thoughts, and what they chose to leave unmentioned, which therefore remained absent.
 
 
 The principle of multi-layered publishing introduced in academia by the Journal of Digital History enables us to present our dataset, research methodology and narrative interpretation together. The dataset of this article consists of all the monologues and dialogues recorded during the experiment, as well as the raw data of the project website on which the digital café was hosted. The hermeneutic layer of our article includes motivations, explanations and reflections of the research methods we used throughout the different steps of our workflow: while recording, transcribing and analysing the monologue, dialogue and interventions in the digital café. In the narrative layer, we use our interpretation of the involvement of Termime in the experiment to reveal how she gave meaning to time in the life she lives in the Italian-Slovenian borderlands. The major advantage of displaying oral sources within the Journal of Digital History, is that it widens the possibilities for the consultation of oral sources. One can simultaneously listen to an interview fragment and read the narrative analysis of the fragment. Moreover, one can watch how the analysis was conducted in the digital tool Clarin Elan.
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
 ## Expanding the Scheme of the Digital Research Process
 
 Fickers and others developed an ‘ideal-typical scheme of the research process, demonstrating the concept of digital hermeneutics as a combination of digital literacy (skills) and critical reflection’ throughout ‘fluent, interconnected’ stages (<cite data-cite="8820477/Q827WAU3"></cite>). The process distinguishes the four digital history practices of ‘search’, ‘data management & curation’, ‘analysis’ and ‘visualisation, interpretation, publication’, which are each linked to their hermeneutic counterparts ‘algorithm criticism’, ‘digital source criticism’, ‘tool criticism’ and ‘interface and simulation criticism’ (<cite data-cite="8820477/Q827WAU3"></cite>, 10).
@@ -131,7 +140,7 @@ The Talking Borders experiment consisted of three stages: the collection of mono
 The citizen scientists came from a wide range of disciplinary backgrounds in the humanities and social sciences. Their specific background depended on the scholar with whom the Principal Investigator was in contact at the various border region universities and research institutes involved in the project. The scholars were recruited from within the network of scholars working at the Institute for Eastern European History at the University of Vienna. Approximately 44% of the citizen scientists were recruited from history departments, especially the participants studying at universities in Rzeszów (Poland), Lviv (Ukraine), Sarajevo (Bosnia-Herzegovina), Novi Sad (Serbia), Cluj (Romania) and Trieste (Italy). Other disciplinary backgrounds included education science – participants from Vienna (Austria) – and anthropology – the majority of citizen scientists from Zagreb (Croatia) and Ljubljana (Slovenia). The participants recruited to represent the Czech Republic and Slovakia, about 11% of the total number of participants, studied at the multilingual Komenský secondary school in Vienna. The Hungarian partner, employed at the Central European Service for Cross-Border Initiatives (CESCI), approached seven universities to recruit citizen scientists from Hungary. All students, with the exception of those from the University of Vienna, were invited to participate and had the option to decline. They were provided with complimentary travel, accommodation in Vienna, and a reception at the Polish Embassy. The students from the University of Vienna participated in the event as part of their 'Introduction to Scientific Methods' course at the university. The experiment was conducted during their scheduled course hours, requiring no additional time commitment from them.
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
 The composition of the citizen scientists was based on the indication of mother tongue in the 1910 census (published in 1912), the last of the decennial censuses conducted under the Habsburg monarchy. The methodology practised in these censuses differed slightly between regions: while citizens were asked about their mother tongue in Transleithania, in Cisleithania and Bosnia they were asked to indicate the language they used in everyday conversation. In addition, Bosnian ‘Serbo-Croatians’ (the inhabitants of Bosnia who identified ‘Serbo-Croatian’ as their mother tongue) were then differentiated according to their religion and minorities constituting less than 1% of the populace were not considered. (<cite data-cite="8820477/3LJPVN9B"></cite>, 557.)
 <!-- #endregion -->
 
@@ -189,7 +198,7 @@ fig
 The border scholars specialised in borders or border-related research topics, with only a minority being historians. The disciplines of linguistics (4) and sociology (4) were the best represented, followed by economics (3), history (3), geography (3) and media studies (2). Other disciplines with one representative each were political science, urban planning, communication studies, anthropology, public administration and African studies. Most of the scholars worked in the United States (seven), followed by France (four) and the United Kingdom (three). Only three border scholars were employed within the former borders of the Habsburg monarchy (in Slovakia, Hungary and Poland). Other countries included Denmark, Germany, Canada, Italy, Switzerland and Finland.
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
 During the 2018 spring semester, [anonymised] taught an introductory course on scientific methods for Bachelor students in education at the University of Vienna, in which 19 students were involved in preparing the experiment. They brainstormed and discussed what they wanted the project website to look like. This process of requirement engineering resulted in a brief for the website programmer. They then co-created the website for the citizen science project (<cite data-cite="8820477/3NFGF8UP"></cite>). The website was an information site about the citizen science experiment, where participants could also download key documents such as the informed consent form. At the start of the experiment, each participant was assigned a pseudonym as a user name. The real names of the interview participants are known to the members of the project team.
 <!-- #endregion -->
 
@@ -221,7 +230,6 @@ On the day of the experiment, the participants were seated in groups of two in p
 ```python tags=["narrative", "hermeneutics", "sound-conversation-length-*"]
 import IPython.display as ipd
 ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_1.m4v')  # Replace with the actual file path
-
 ```
 
 <!-- #region tags=["hermeneutics", "dialog-conversation-length-*"] -->
@@ -292,23 +300,27 @@ Taped conversations were first transcribed with the help of Wreally transcriptio
 The aim of the transcription was to produce a readable, authentic record of the dialogues, to capture the voices of the participants, their rhythms and idiosyncrasies of speech. Thus their words are recorded as they were spoken, with the majority of grammatical and lexical errors, as well as any distinguishing verbal tics (‘so to speak’, ‘you know’, ‘like’, ‘let’s say’) included. Errors were only corrected in very extreme circumstances when a speaker was having serious difficulty in making him or herself understood. Where this was done, the added word is included within parentheses, e.g. ‘I had (gone) to the mountains.’ Wherever possible, though, mistakes have been left unchanged. It is to be hoped that the judicious use of punctuation throughout the transcriptions will aid the reader in deciphering the meaning of what was originally said. Unfinished words or sentences that were begun but left incomplete have been excised. Where a speaker went back to correct him or herself, the corrected version of the sentence is the one that has been recorded. Where speakers discussed practical matters, such as how to operate the dictaphone, the time left to speak, and so on, a brief summary has been added in parentheses, e.g. (they talk in German about what to do next). When the utterance constituted a noise intended to indicate consent, disagreement or surprise, this has been recorded accordingly, e.g. ‘Ummm, not really.’ Utterances that did not interrupt the narration of the interviewee but merely served to indicate, say, agreement, are not transcribed. Nonverbal expressions with an emotional meaning are indicated between brackets, e.g. (laughs). Where it proved impossible to identify a geographical reference, or where the recording was incomprehensible or inaudible, it is marked (unclear). Where the transcriber was unsure about an unclear word, the word is included in parentheses with a question mark.
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
 For the narrative analysis of the monologues, we opted for an ethnopoetical transcription of a selection of fragments (<cite data-cite="8820477/6VPUMXCI"></cite>). Ethnopoetics uses poetic lines instead of prose, and removes interpunctuation, so as to open up the transcription to a wider interpretation, for example including silences and emphases. In the case of Termime’s monologue, for example, the first transcription of the first fragment analysed was as follows:
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
-> So to me the border it has a very familiar, like it’s very familiar to me, because I grew up on the border with Slovenia, and in fact, I am part of the Slovene minority in Italy. So, since I was born, I was little, I always with my family, we always travelled from Italy to Slovenia like on the regular basis and daily. So to me the border wasn’t at the beginning when there was still like the physical border with these (unclear) that goes up and down there was like, I wouldn’t call it a shock, because I grew up with it, so I got to know it, but like police stop you at the border and said to you, ‘give me your ID give me your (in Slovenian)’ – which was a type of passport the people who lived on the border had. That was quite like it wasn’t normal for me. And then when the border was taken down, and now you can pass it whatever you like it or how many times you like it, now it’s different.
+<!-- #region tags=["hermeneutics", "dialog-familiar-*"] -->
+| Termime |
+| ------- |  
+| So to me the border it has a very familiar, like it’s very familiar to me, because I grew up on the border with Slovenia, and in fact, I am part of the Slovene minority in Italy. So, since I was born, I was little, I always with my family, we always travelled from Italy to Slovenia like on the regular basis and daily. So to me the border wasn’t at the beginning when there was still like the physical border with these (unclear) that goes up and down there was like, I wouldn’t call it a shock, because I grew up with it, so I got to know it, but like police stop you at the border and said to you, ‘give me your ID give me your (in Slovenian)’ – which was a type of passport the people who lived on the border had. That was quite like it wasn’t normal for me. And then when the border was taken down, and now you can pass it whatever you like it or how many times you like it, now it’s different. |
 <!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
 The ethnopoetical transcription of the same fragment brings, for example, the repeated words ‘very familiar’ to the foreground.
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
-> so to me the border it has a very familiar<br> like it’s very familiar to me<br> because I grew up on the border with Slovenia
+<!-- #region tags=["hermeneutics", "dialog-familiar-repeat-*"] -->
+| Termime |
+| ------- | 
+| so to me the border it has a very familiar<br> like it’s very familiar to me<br> because I grew up on the border with Slovenia |
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
 In the dialogues, interjections such as ‘hm’, ‘oh’ or ‘wow’ pointed to implicit knowledge about the interlocutors’ opinions: they ‘reveal what is going on in speakers’ minds in relation to the situation they are in’ (<cite data-cite="8820477/4FST6UNI"></cite>, 8). In the following example we see how the interpretation of a dialogue fragment changes if we pay attention to the interjections made by the interlocutors.
 <!-- #endregion -->
 
@@ -316,8 +328,10 @@ In the dialogues, interjections such as ‘hm’, ‘oh’ or ‘wow’ pointed 
 A comparison of the first and second transcription of a fragment from the dialogue revealed how the interpretation of a dialogue fragment changes:
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
-> **Aura**: _I didn’t know anything about Sopron, for example, I, I only see that the people, the the country is, Austria is, Austria is a rich country. Hungary was always a, a poor country, and, but I had never_
+<!-- #region tags=["hermeneutics", "dialog-aura-*"] -->
+| Aura |
+| ------- | 
+| I didn’t know anything about Sopron, for example, I, I only see that the people, the the country is, Austria is, Austria is a rich country. Hungary was always a, a poor country, and, but I had never |
 <!-- #endregion -->
 
 ```python tags=["hermeneutics", "sound-rich-poor-countries-*", "narrative"]
@@ -347,31 +361,39 @@ The second fragment reveals two particularly striking elements. Firstly, it demo
 Termime was selected from the University of Trieste, where she was enrolled on a Bachelor course in international relations. She was recruited for the Talking Borders experiment by Giulia Caccamo, the lecturer of a course on contemporary history. Termime considers herself a member of what she calls ‘the Slovenian minority in Italy’ (see [conversation 64](https://github.com/jdh-observer/6ig87tC5GKjQ/blob/main/script/transcripts/064_Aura_Termine.docx)). In the conversation with her interlocutor Aura, she explains how she grew up in Italy at the border with Slovenia and frequently travelled back and forth between Italy and Slovenia. To understand the implications of identifying as part of the ‘Slovenian minority’ in Italy, we must look at the history of the region.
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 Following the dissolution of the Austro-Hungarian monarchy, the peace treaties signed at the Paris Peace Conference in 1919 caused a major redrawing of the map of Europe. Two treaties recognised the independent status of newly emerged nation-states on the territory of the former Austro-Hungarian Empire. The Treaty of Saint-Germain-en-Laye divided the Austrian part of the Dual Monarchy between the interwar Austrian state, Czechoslovakia, Poland, Romania, Italy and the Kingdom of Serbs, Croats and Slovenes. The Treaty of Trianon divided the Hungarian part of the Dual Monarchy between the interwar Hungarian state, Romania, Czechoslovakia, the Kingdom of Serbs, Croats and Slovenes, Austria and the Free State of Fiume (nowadays Rijeka), which emerged in 1921, operated under the auspices of the League of Nations and was annexed to Italy in 1924. In the Adriatic, the division of land between Italy and the Kingdom of Slovenes, Croats and Serbs was specified in the 1920 Treaty of Rapallo. The Austrian Littoral (also referred to as the Venezia Giulia) was a strip of land east of Trieste that was included in Italy; it contained approximately 300,000 or one quarter of the world’s Slovenian-speaking population (<cite data-cite="8820477/CKCWHURP"></cite>, 4).
+<!-- #endregion -->
 
 <!-- #region jdh={"module": "object", "object": {"source": ["Changes to the Italian Eastern borders from 1920 to 1975. Public Domain. Source: Wikipedia."]}} tags=["figure-changes-to-border-*"] -->
 ![Image](https://upload.wikimedia.org/wikipedia/commons/9/9d/Litorale_1.png)
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 Most of this territory switched to Yugoslavian state sovereignty in the aftermath of the Second World War, which also led to the displacement of between 200,000 and 350,000 ‘ethnic Italians’ (as they were described at the time) from the Venezia Giulia to the other side of the Slovenian-Italian border (<cite data-cite="8820477/DQ3YL59B"></cite>). The city of Trieste was the most important exception; it operated as a Free Territory under the control of the United Nations Security Council in between Italy and Yugoslavia for seven years, before being split into three in 1954 and divided between Italy, which received the urban area and the port; the socialist republic of Slovenia (part of Yugoslavia), which received access to the sea and developed a new urban centre; and the socialist republic of Croatia (also part of Yugoslavia) (<cite data-cite="8820477/HFYFSL9Z"></cite>). A Slovenian minority remained in Italy – a census in 1971 recorded 52,194 Slovenian speakers in Friuli-Venezia Giulia (<cite data-cite="8820477/7BLBZR4G"></cite>).
-
+<!-- #endregion -->
 
 At least from the mid-1700s, Termime’s family lived in the Gorizia province, although the borders changed over time. They were Slovenian speakers living in the Habsburg Empire, and in Italy following the adoption of the Treaty of Rapallo in 1920. Only one of her grandmothers was born in 1940 in the Idrija province in the Kingdom of Italy, which became part of Yugoslavia in 1947. However, once she married Termime’s grandfather, she moved to the Gorizia province of Italy.
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 In the 1950s, Yugoslavia feared an economic regression and attempted to circumvent an economic decline by reforming its migration policies and allowing citizens to go abroad for work purposes, most of them to the Federal Republic of Germany. Following the signing of the London Memorandum in 1954 and the delimitation of the borders, the border region turned into a site of cross-border activity. While in 1954, around 3,000 Yugoslavian citizens worked in Western Europe (2,000 of them in West Germany), by 1961 the number had risen to 28,000 (of which 17,000 were in West Germany). By the late 1960s Yugoslavia’s open-border policy was what famously distinguished it from the Soviet model (<cite data-cite="8820477/P85Z4LZU"></cite>, 74–76). Socialist Yugoslavia followed a different border regime from what is usually associated with other socialist countries behind the ‘Iron Curtain’, such as the Soviet republics.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 The Italian-Yugoslav border along the cities of Trieste and Gorizia was a special case. The former province of Gorizia was divided between Yugoslavia and Italy in 1947, and 74 percent of its population was incorporated into Italy. In 1954, after the short-lived period of the Free Territory of Trieste (1947–1954), the city of Trieste was annexed by Italy. Recognising the negative economic impact the new border could potentially have, already in 1949, Italy and Yugoslavia signed the Udine agreement allowing special border passes for borderland citizens who owned property on both sides of the border. This was followed by a further relaxation of the cross-border regulations for all border dwellers, which increased border traffic in Gorizia by 900 percent (<cite data-cite="8820477/GJC3BGW4"></cite>, 182). As a result, during the Cold War, the border between Italy and Slovenia (Yugoslavia) was exceptionally open. By the 1970s it had become a hotspot of cross-border practices, with Italians crossing to Yugoslavia daily for shopping and tourism, and Slovenians crossing for work and grocery shopping (<cite data-cite="8820477/GJC3BGW4"></cite>). Then followed the end of the Cold War, the collapse of Yugoslavia, and Slovenia’s membership of the European Union in 2004. Bialasiewicz and Minca described its inclusion into the Schengen Area three years later as a ‘surreal experience for Trieste’ because the border ‘suddenly became much more important than it had ever been over the previous decades [...] In its disappearance, the border was reborn – but as a symbol of something else. The fiction of a limit was thus transformed into the fiction of no limits: the fallen ex-Cold-War border became a symbol of a “borderless Europe”’ (<cite data-cite="8820477/J2CVNUTW"></cite>, 1085; <cite data-cite="8820477/VIN7VLMB"></cite>).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Today, the estimated number of inhabitants identifying as a Slovenian minority in Trieste varies. Statistics provided by the Italian National Institute of Statistics in 2015 suggest that a total of 46,000 Slovenian-speaking residents live in Friuli-Venezia Giulia (FVG) (corresponding to 3.7 percent of the entire population in that region), 25,000 of whom live in the Province of Trieste (corresponding to 10.6 percent of the entire population in that region). However, the Slovene Research Institute (SLORI) suggests twice as many Slovenian-speaking residents in FVG (<cite data-cite="8820477/JNWJBU8I"></cite>, 53). Officially, the use of Slovenian as a minority language is regulated under National Law 38/2001, which accepts it as an official monitory language but does not require authorities to use it. This results in Italian being the official language in use in day-to-day activities in Trieste. Despite the official recognition of Slovenian-speaking schools and media broadcasting in Trieste, the use of Slovenian is decreasing (<cite data-cite="8820477/3J63LLCQ"></cite>, 108). Slovenian is predominantly used in intimate contexts such as with family members, or in social contexts, such as Slovenian associations and organisations (<cite data-cite="8820477/EBJEKEBH"></cite>, 199). It is therefore not surprising that Termime chooses to speak Slovenian with her family members but Italian in most other situations.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 According to the official website of the Regional School Office, the FVG region has eight schools and six higher education institutions in which Slovenian is the language of instruction ([website](https://usrfvg.gov.it/it/home/menu/uffici/ufficio-scuole-slovene/scuole/), USRFVG 2022). In the provinces of Trieste and Gorizia, these schools operate in the same way as Italian schools. By the end of secondary school, pupils are expected to have reached C1 level in Italian and Slovenian ([website](https://usrfvg.gov.it/it/home/menu/uffici/ufficio-scuole-slovene/presentazione/), USRFVG 2022). Like most Slovenian-speaking children (<cite data-cite="8820477/3J63LLCQ"></cite>, 109), Termime attended a bilingual school in Italy, where she was taught Slovenian as a first and Italian as a second language. She later attended the University of Trieste. For many Slovenian-speaking residents, the change from school to work or university shifts the social environment, bringing together many people from different mother tongue backgrounds and resulting in Italian being used by default as the main language of communication (<cite data-cite="8820477/EBJEKEBH"></cite>, 202). Termime presented herself as a member of the ‘Slovenian minority’, but also emphasised that she ‘definitely [has] more things in common’ with Italian culture.
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Termime’s interlocutor Aura was born and grew up in Vienna, but spent his weekends and holidays in his grandparents’ village in the eastern canton of Burgenland, near the Hungarian border. The information he provides about his family background is sparse and difficult to decipher. His grandparents and mother were part of the Croatian-speaking minority in Austria. His grandparents learned German in school and honed their language skills during their professional career in Vienna (<cite data-cite="8820477/TRSW6ACK"></cite>). Given the fact that his ‘Mum’s side was communist’, we could potentially conclude that his family members voted for the communist party (<cite data-cite="8820477/KCHDHFDE"></cite>). Based on the scarce information we received about his father, we assume that he is an Austrian citizen living in Austria. Nevertheless, Aura indicated that he identifies more with Hungarian than Austrian culture and values. He stated that he shares ‘the same values’ and that Hungarian culture and cuisine is ‘very similar to ours’. By ‘ours’, he was most likely referring to his Croatian minority background (see [conversation 64](https://github.com/jdh-observer/6ig87tC5GKjQ/blob/main/script/transcripts/064_Aura_Termine.docx)). Aura does not reveal any information about whether he speaks Croatian, Hungarian or both languages.
+<!-- #endregion -->
 
 <!-- #region tags=["hermeneutics"] -->
 ## Selecting Termime
@@ -389,29 +411,15 @@ In the digital café, most comments were made by citizen scientist DeadSaint fro
 ## A Digital Analysis of Termime’s Oral Articulations
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics"] -->
+<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics"] -->
 As Michael Frisch noted, the digital era brings ‘within reach all of the content and meanings in interviews not easily captured in transcription. Now we can see, hear, study, and select nuances that are not readily representable in transcripts, and often not lexical at all. This is what it means to say that the orality of oral history is moving excitingly back into primacy’ (<cite data-cite="8820477/RVAR4E8B"></cite>, 132). The software program Clarin Elan enabled analysis of the following parameters: intonation (affirmative, negation, excitement, etc.), exaggeration, repetition/clarification, emphasis, pauses and temporality. Working with the software was time-consuming, however, and we did not manage to work collaboratively within one digital working environment while being in different locations or to include different user statuses for the analysis of fragments, which would have enabled them to provide an Open Access version of pseudonymised fragments. We therefore opted to show readers and listeners an insight into our working method by means of this video:
 <!-- #endregion -->
 
-```python tags=[video-analyse-interview-fragment-software-*]
+```python tags=["video-software-*"]
 from IPython.display import IFrame
-
-metadata = {
-    "jdh": {
-        "module": "object",
-        "object": {
-            "type": "video",
-            "source": [
-                "How to Analyse an Interview Fragment in the Software Program Clarin Elan"
-            ]
-        }
-    }
-}
 
 src_url = "https://cdnapisec.kaltura.com/p/2753661/sp/275366100/embedIframeJs/uiconf_id/45459391/partner_id/2753661?iframeembed=true&playerId=kaltura_player&entry_id=1_7uy0dr3v&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_gjkkigo5"
 IFrame(src_url, width=608, height=402)
-
-
 ```
 
 ## Narrating Termime’s Monologue
@@ -434,42 +442,38 @@ ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_4.m4v')  # Replace with the actual 
 | so since I was born<br> I was little<br> I always<br> with my family we always travelled from Italy to Slovenia<br> like on the regular basis daily<br> so to me the border wasn’t at the beginning<br> when when there was still like<br> the euhm physical border with the (unclear) that goes up and down<br> there was like<br> I wouldn’t call it a shock<br> because I grew up with it so I got to know it<br> but like when euhm like the the police stop you at the border and said to you<br> give me your ID give me your prekusnica<br> which was a type of passport the people who lived on the border had<br> that was quite like euhm it wasn’t normal for me<br> and then when the border was taken down<br> and now we can you can pass it whatever you like it<br> or how many times you like it<br> now it’s different but eahm<br> so as I said | &nbsp;
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 Born after the collapse of communism, Termime remembered how she could pass border control with a border traffic passport for borderland inhabitants, a practice that remained in place until the border was opened on 21 December 2007 when Slovenia entered the Schengen Area. Termime’s descriptions of the past support Bialasiewicz’s and Minca's observations of discrepancies at the Cold War border: ‘what makes this Cold War border particularly interesting from a political-geographic point of view is the tremendous gap between the rhetorical and symbolic “weight” of this border in the early Cold War imaginary - both at the national as well as the international scale, in many ways an “overdetermination” of the border, as Balibar (<cite data-cite="8820477/B2EDQNF9"></cite>) would term it- its subsequent reimagination following the Tito-Stalin split in 1948, and its ongoing lived experience’ (<cite data-cite="8820477/J2CVNUTW"></cite>, 1098).
-
+<!-- #endregion -->
 
 Encouraged by Aura, who shared his monologue earlier, Termime narrated a contrast between crossing the border as a child and as a young adult. As a child, there was a tension; she described how crossing the Italian-Slovenian border was both ‘very familiar’ and yet ‘not normal’. Her understanding of normality at the moment of the experiment was of being able to cross the border without having to show one’s papers. This interpretation can be much more easily read from an ethnopoetic transcription than from the first transcription, thanks to which, for example, the repetitions of ‘very familiar’ and ‘always’ are given a poetic quality. Hearing the fragment, and analysing it in Clarin Elan, offers the additional advantage of noticing the affirmative intonation of the exaggerations ‘very familiar’, ‘on a regular basis and daily’, ‘whatever you like’, ‘as many times as you like it’. Especially prominent is how the fragment gains its temporal significance through emphasis on ‘still’, ‘and then’, and ‘now’, small words that are less noticeable in the written transcription but clearly indicate how Termime linked the past to the present.
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 The fragment does not offer us new historical knowledge about lived experiences in the borderlands. Even while recalling her own past experiences, Termime did not contextualise them within the Cold War era; interestingly, we receive no information about the fact that already from the 1960s onwards, crossing the border had become a living reality (<cite data-cite="8820477/VIN7VLMB"></cite>). Offering us only a brief insight into her own past border experiences, Termime’s contribution is similar to that of other citizen scientists. Citizen scientists frequently referred to their own past in their monologues, but these descriptions rarely went beyond their own lived experiences. Only in a few cases did citizen scientists relate how their ancestors lived during the Austro-Hungarian Empire, how these experiences were given meaning within their families for several generations and continued to affect their view of the world at the moment of the recording (see, for example, [conversation 85](https://github.com/jdh-observer/6ig87tC5GKjQ/blob/main/script/transcripts/085_Thinkerer_Golem.docx) or [conversation 26](https://github.com/jdh-observer/6ig87tC5GKjQ/blob/main/script/transcripts/026_Weaselfie_Idea.docx)).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 The monologues recorded during the experiment were interactive (<cite data-cite="8820477/V5MRJS2B"></cite>). As Termime clarified in an email to us (16.01.2023) after the experiment: ‘Before beginning to record my conversation with my interlocutor Aura, he expressed that he didn’t know where Gorizia was located, which is why I referred to my hometown as being near Trieste since that was the town that was known to my interlocutor’. Termime also had the feeling that she needed to give a brief explanation of what the dissolution of the Austro-Hungarian Empire looked like from the perspective of Italian-Slovenian borderland inhabitants:
+<!-- #endregion -->
 
 ```python tags=["narrative", "hermeneutics", "sound-slovenian-italian-border-*"]
 import IPython.display as ipd
 ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_5.m4v')  # Replace with the actual file path
 ```
 
-> the Slovenian and Italian border is also quite  
-euhm torn apart because of the historical side  
-because Gorizia and Trieste where I live  
-which is the border of Italy  
-was euhm from forever part of the Austro-Hungarian Empire  
-so in reality euhm Gorizia and Trieste shouldn't be part of Italy  
-they just  
-have been there  
-and after, after the war it was taken by Italy  
-so there's also that aspect  
-so the historical aspect  
-which is  
-it’s difficult
+<!-- #region tags=["dialog-slovenian-italian-border-*"] -->
+| Termime |
+| ------- | 
+| the Slovenian and Italian border is also quite <br> euhm torn apart because of the historical side <br> because Gorizia and Trieste where I live <br> which is the border of Italy <br> was euhm from forever part of the Austro-Hungarian Empire <br> so in reality euhm Gorizia and Trieste shouldn't be part of Italy <br> they just <br> have been there <br> and after, after the war it was taken by Italy <br> so there's also that aspect <br> so the historical aspect <br> which is <br> it’s difficult |
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 The historical knowledge Termime displays in her monologue is concise. Termime ironically mentioned that Trieste was ‘forever’ part of the Austro-Hungarian Empire, whereas in reality, it joined the House of Habsburg in 1382 as a free city. Her depiction of how Gorizia and Trieste became a part of Italian territory in the aftermath of the First World War seems to present a dichotomic view of eternal ‘Austrianness’ contrasted with an eternal Italian state which ‘took’ the territory. Termime did not adhere to the existing dominant narrative of memory in which Trieste is presented as a ‘cosmopolitan port city’ that is becoming ‘a battleground for competing understandings of territoriality, identity, and belonging’ (<cite data-cite="8820477/J2CVNUTW"></cite>; see also <cite data-cite="8820477/A8PZJFEA"></cite>, <cite data-cite="8820477/AUKIAN6I"></cite>).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Termime said that Trieste and Gorizia were ‘taken over’, after which she seems to bring in some reflection about that shift of sovereignty (‘they shouldn’t be there’). Did she want to say that Austrians resented the fact that Trieste and Gorizia were not a part of the interwar Austrian state (<cite data-cite="8820477/DQ3YL59B"></cite>)? That there were voices within Italy that deplored the lack of homogeneity within the interwar Italian state (<cite data-cite="8820477/QA55V2AY"></cite>, 107)? Or is she critical about the emergence of the idea of an ethno-national border, which arose in the late 19th century (<cite data-cite="8820477/G9Y5Z6B7"></cite>)? Termime did not clarify what ‘taken by Italy’ meant, and it is worth bearing in mind that the Austro-Hungarian army included Italian-speaking soldiers: ‘When between 350,000 and 400,000 Austro-Hungarian troops surrendered to Italy on 3 and 4 November 1918, only about a third consisted of ethnic Germans. (…) The rest included 83,000 Czechs and Slovaks, 61,000 South Slavs, 70,000 Poles, 32,000 Ruthenians, 25,000 Romanians and even 7,000 Italians.’ (<cite data-cite="8820477/TY8XC6F2"></cite>, 234; see also <cite data-cite="8820477/SHCB9CC7"></cite>). Termime’s understanding seems more in line with an Italian narrative on war memory developed in the interwar years focusing on a nationally conscious Italian army including the volunteers who had deserted from the Austro-Hungarian army and joined the Italian army after the outbreak of the First World War (<cite data-cite="8820477/L5WUW7NP"></cite>). It is striking that Termime contextualised the past so concisely. For example, she did not explain that after the Second World War, the Italian city Gorizia where she was born and grew up was divided by means of a border fence installed in the middle of the railway station square, leaving the old city centre on the Italian side and prompting the construction of a new city centre on the Slovenian side known as Nova Gorica (<cite data-cite="8820477/G9Y5Z6B7"></cite>).
-
+<!-- #endregion -->
 
 Immediately after the second fragment, Termime continued with a fragment that indicates how she visited the past in order to give meaning to the present:
 
@@ -478,45 +482,15 @@ import IPython.display as ipd
 ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_6.m4v')  # Replace with the actual file path
 ```
 
-> so the situation today  
-I think that the people became much more open  
-and much more like keen to know the difference  
-so there’s like a saying that says that  
-no there’s not a saying  
-the pope said it that today borders should not be borders  
-so walls  
-but they should be bridges from a culture to another  
-so we shouldn’t take the borders like  
-the difference  
-but a way to connect with someone that is different from you  
-so you can learn something  
-get the knowledge that you don’t have  
-you can get to experience like food  
-and see things that are different  
-and euhm yes  
-the border  
-can became meeting point for people  
-it doesn’t have to be difficult or something like that  
-but then euhm  
-so now the border where I live from Slovenia and Italy  
-it’s it’s very it’s very peaceful it’s nothing happening there  
-but I know that like between Slovenia and Croatia  
-the border is  
-it's a very conflicted area  
-there are walls and you can’t really easily pass it  
-or like that  
-so I know that it’s a very diverse topic  
-and it’s not the same everywhere  
-like for example in America Trump wants to build a wall between Mexico and the US  
-so you can see that like he he as he says  
-he wants to take control of the situation  
-but maybe  
-the fact is that you are also kind of afraid of the difference  
-and you don’t want it to come to your euhm to your nation
+<!-- #region tags=["dialog-ppl-more-open-*"] -->
+| Termime |
+| ------- | 
+| so the situation today <br> I think that the people became much more open <br> and much more like keen to know the difference <br> so there’s like a saying that says that <br> no there’s not a saying <br> the pope said it that today borders should not be borders <br> so walls <br> but they should be bridges from a culture to another <br> so we shouldn’t take the borders like <br> the difference <br> but a way to connect with someone that is different from you <br> so you can learn something <br> get the knowledge that you don’t have <br> you can get to experience like food <br> and see things that are different <br> and euhm yes <br> the border <br> can became meeting point for people <br> it doesn’t have to be difficult or something like that <br> but then euhm <br> so now the border where I live from Slovenia and Italy <br> it’s it’s very it’s very peaceful it’s nothing happening there <br> but I know that like between Slovenia and Croatia <br> the border is <br> it's a very conflicted area <br> there are walls and you can’t really easily pass it <br> or like that <br> so I know that it’s a very diverse topic <br> and it’s not the same everywhere <br> like for example in America Trump wants to build a wall between Mexico and the US <br> so you can see that like he he as he says <br> he wants to take control of the situation <br> but maybe <br> the fact is that you are also kind of afraid of the difference <br> and you don’t want it to come to your euhm to your nation |
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 After stating that the past was ‘difficult’ in the second fragment, Termime continued explaining why today, it ‘doesn’t have to be difficult’ any longer, as peace is guaranteed (‘it’s very peaceful nothing is happening’). Termime perceived the ‘open’ Italian-Slovenian border in 2018 as a bridge. This perception adheres to a narrative that gradually developed within the region. The Friuli-Venezia Giulia region saw the creation of the Alps-Adriatic Working Group in 1978, which included regions from both sides of the Iron Curtain and improved transport connections, for example, and it also became part of the larger Trans-European Network in the 1990s. Border crossings became easier after the collapse of communism, the independence of Slovenia and its membership of the European Union. These initiatives contributed to a new understanding of the border as a bridge towards another culture (<cite data-cite="8820477/NK838DI9"></cite>, 40). Termime was not entirely sure at first where she had heard the analogy, but she then introduced the Pope as an authority figure to underline the importance of her statement. Less than a year before the citizen science experiment, Pope Francis had indeed said that ‘society should not create “walls but bridges” to encourage good relations among people’ (<cite data-cite="8820477/SPKKPYX7"></cite>). He did not explicitly refer to US President Donald Trump, who at that time was publicly pushing for the construction of a wall on the Mexican-American border, but it was generally understood that the insinuation was clear.
-
+<!-- #endregion -->
 
 Termime’s narration here reached a higher degree of affection than in the earlier fragments. Her understanding of a border as a privileged place to ‘connect with someone that is different from you’ was first followed by four examples of ways in which people can meet across borders (through learning, acquiring knowledge, eating and observing), and then by an affirmative yes to an understanding of the border as a ‘meeting point’. She used contrast as a narrative technique, first with the past (it is now ‘much more open’, ‘much more’) and then with the Slovenian-Croatian and American-Mexican state border. Termime clearly prefers the open nature of today’s Italian-Slovenian border, maybe even more so because she is aware of its constructed character. Slovenia’s entry to the Schengen Area in 2007 turned the Slovenian-Croatian border into an external border of the European Union. When Croatia joined as the 28th Member State in 2013, the border between the two countries became an internal Schengen border. When the region became part of migrants’ Balkan corridor to other countries in the European Union in 2015, about one third of the border was fenced off and surveillance increased. It is somewhat puzzling that Termime finalised her monologue with:
 
@@ -525,20 +499,15 @@ import IPython.display as ipd
 ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_7.m4v')  # Replace with the actual file path
 ```
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 Her teleologically positive story ended with Gorizia/Nova Gorica taking on the role of European Capital of Culture in 2022. Whereas in 2022, Esch-sur-Alzette in Luxembourg was designated the title, in 2025, Nova Gorica will share the honour with Chemnitz ([European Capital of Culture](https://culture.ec.europa.eu/policies/culture-in-cities-and-regions/designated-capitals-of-culture)). But contrary to what Termime suggested, ‘that’s’ not ‘it’. It is remarkable that she did not mention the efforts by both the Slovenian government and the Italian government to harden the respective Croatian-Slovenian border or Italian waters in the Mediterranean Sea by denying asylum seekers the opportunity to exercise their rights and deporting people eligible to apply for refugee support instead of opening the national border (<cite data-cite="8820477/7L64HE4D"></cite>).
+<!-- #endregion -->
 
-
-> there is this project going on for the best city in Europe  
-for like the European prize  
-and Gorizia which is the Italian city and Nova Gorica which is the Slovenian city wants  
-want to apply together to the European best city of Europe like 2022 I think  
-so just that gives it away  
-what is the euhm like feeling in the air  
-so that there is cooperation  
-differences yes  
-but so much cooperation and so much positivity  
-and that’s it
-
+<!-- #region tags=["dialog-european-prize-*"] -->
+| Termime |
+| ------- |
+| there is this project going on for the best city in Europe <br> for like the European prize <br> and Gorizia which is the Italian city and Nova Gorica which is the Slovenian city wants <br> want to apply together to the European best city of Europe like 2022 I think <br> so just that gives it away <br> what is the euhm like feeling in the air <br> so that there is cooperation <br> differences yes <br> but so much cooperation and so much positivity <br> and that’s it |
+<!-- #endregion -->
 
 An analysis of how Termime referenced time in her monologue revealed that her memories of her own past experiences are too concise to offer a deeper insight into past living experiences of borderland inhabitants and that the historical knowledge she displayed is too limited to decipher the dominant narratives to which she referred. The main purpose of her references to the Slovenian-Italian border in the past (that it was ‘difficult to cross’) was to juxtapose these with the meaning she attributed to that border in the present (‘borders are open’) and the future (the application of Gorizia to become a cross-border European capital). In other words, she constructed an entangled narration of the past, present and future in order to navigate her understanding of reality.  
 
@@ -546,8 +515,9 @@ An analysis of how Termime referenced time in her monologue revealed that her me
 ## Narrating Termime’s Dialogue
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 In the second part of the experiment, Termime engaged in a dialogue with citizen scientist Aura. While the monologue genre was a representation of individual experiences, the dialogue genre facilitated a conversation in which ideas and opinions were exchanged (<cite data-cite="8820477/6K25WIP8"></cite>, 148–149). Time references discussed in the dialogue between Termime and Aura were past and present border experiences, socio-political events in the year 2018 that sparked debates about state borders, questions of belonging, and generational differences in attitudes. Based on Landwehr’s concept of ‘Chronoferenzen’, we will now identify the multiple layers of temporality referenced in the dialogue and analyse how specific imaginaries of the past or future occurred.  
-
+<!-- #endregion -->
 
 The dialogue between Termime and Aura was fuelled by information shared in the monologues. Termime began the dialogue with a question about Aura’s connection to Hungary. In his monologue, Aura had described how he spent his weekends and holidays as a child at his grandparents’ house in an Austrian village on the border with Hungary. Termime falsely believed that Aura grew up there. Despite this misunderstanding, Termime correctly concluded that Aura must have visited Hungary and began the dialogue by asking Aura about this experience.
 
@@ -573,16 +543,19 @@ import IPython.display as ipd
 ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_9.m4v')  # Replace with the actual file path
 ```
 
-> Yeah me too  
-me too  
-we go to buy things in aeh
+<!-- #region tags=["dialog-buy-things-*"] -->
+| Termime |
+| ------- |
+| Yeah me too <br> me too <br> we go to buy things in aeh |
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Termime and Aura agreed that they had both done cross-border shopping (across the Italian-Slovenian and the Austrian-Hungarian border respectively). In the 1970s, socialist Slovenia had already developed into a shopping destination for cheap products for residents in Italy, and Yugoslavian citizens crossed the border to Italy to buy luxury goods such as Levi jeans or Marlboro cigarettes (<cite data-cite="8820477/M9MZBR8D"></cite>, 66-68). Post-socialist Slovenia has adapted to the neoliberal economic system of Western European countries, opening the Slovenian market to desired Western products, which are nevertheless often sold at a lower price than in Italy (<cite data-cite="8820477/MJPS3VKP"></cite>, 100). According to newspaper articles, the number of Italians crossing the border to Slovenia to buy everything from meat to petrol has increased in the last 20 years ([Slovenian Times](https://sloveniatimes.com/number-of-italians-shopping-in-slovenia-on-the-rise/)).
+<!-- #endregion -->
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Communist Hungary, on the other hand, became a major shopping destination for socialist countries within the Eastern bloc in the late 1970s and early 1980s, since some degree of free-market activity was in place (Michalkó and Timothy, 2001, 5). With the dissolution of state socialism in the 1990s, Western European residents began to cross the border to former socialist countries, especially Hungary and Poland, to purchase consumer goods at lower prices. At the same time, residents in former socialist countries engaged in informal cross-border trade practices by selling domestic products such as meat, vegetables and clothing abroad (<cite data-cite="8820477/FJ7W3EZ9"></cite>, 5). When state socialism came to an end in 1990, Hungary became the main destination for shopping purposes for its neighbouring countries because of the ‘central geographical location of the country, the well-established retail network, the pleasant shopping milieu, as well as the quality and variety of products and their favourable price/value ratio’ (<cite data-cite="8820477/VJUN37LE"></cite>, 1323). Since Hungary joined the European Union in 2004 and the Schengen Area in 2007, cross-border shopping has increased. By 2018, according to the Hungarian Central Statistical Office, 25 percent of all trips to Hungary from outside visitors were for shopping purposes ([KSH 2023](https://www.ksh.hu/stadat_files/tur/en/tur0005.html)).
-
+<!-- #endregion -->
 
 The dynamic displayed by Aura and Termime while talking about shopping recurred frequently throughout the dialogue. Both interlocutors asked and answered questions in order to find shared experiences. Here is an example of them experiencing xenophobic remarks expressed by members of their home societies:
 
@@ -610,8 +583,9 @@ ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_10.m4v')  # Replace with the actual
 | yeah I think that should be a thing that <br/> the people on the border should work on it it's true that | &nbsp; |
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 When Aura stated how especially older residents in rural areas (most likely he is referring here to his grandparents’ village) tend to be ‘arrogant’ and do not ‘like the people from Hungary’ because they are ‘criminal’, Termime expressed how she observed a similar attitude amongst ‘Italians’ towards others. The citizen scientist stated how the Italian borderland inhabitants she encountered (‘people on the border’) believed they are ‘more important’ than Slovenians. Termime did not specify whether she was referring to Slovenian citizens of Slovenia, or Italian citizens speaking Slovenian. In contrast to Aura, Termime did not specify an age group, but generalised the people she engaged with: ‘also Italians are like that’. As in the previous sequence, Aura and Termime indicated that they had shared a contemporary experience by living in or frequently engaging with a borderland community (<cite data-cite="8820477/Z5VWIYTF"></cite>).
-
+<!-- #endregion -->
 
 While Termime’s and Aura’s dialogue unfolded with an exchange of contemporary borderland experiences, it also showed the use of absent imaginaries of the past. The imaginaries of the past remained vague and contradictory and co-existed with assessments of the present. These imaginaries did not reference the Austro-Hungarian history of Termime’s and Aura’s home countries. Instead, the temporal focus of historical references was shifted towards the past 70 years. Why were these specific imaginaries of the past chosen over others? The citizen scientists may have related to the past through their grandparents’ and parents’ memories, as well as through their own memories as children growing up in the late 1990s and the beginning of the 21st century. It might have felt more natural for Termime and Aura to reference a time period that is more tangible for them. The historical references used by Termime and Aura indicate that they regard the past as a time lived by their parents and grandparents not so long ago, rather than as historical periods academically often referred to as ‘communist’ and ‘post-communist’ times. A second explanation could be that they considered their knowledge about other historical periods, including the Austro-Hungarian past, to be limited. While Termime provided concise information about the Austro-Hungarian Empire in the written monologue that she had prepared prior to the experiment, in the unscripted situation of the dialogue guided by the interlocutors’ ability to present and discuss certain topics without written notes, she no longer referred to this historical period.
 
@@ -637,8 +611,9 @@ ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_11.m4v')  # Replace with the actual
 | so aehm<br> you also couldn't like<br> it was like on the other side there was someone different but they had their reasons<br> like aeh it was like<br> aehm<br> I think it's all connected with history<br> because maybe the the people that live in the village near the border with Hungary<br> they had some experiences that<br> like driven them apart from the thinking like that we should go on the other side<br> And because where I live it was like that<br> it was full of tension and conflict<br> till now<br> Because aeh<br> yeah<br> it wasn't really<br> really easy<br> so | &nbsp; |
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 Termime did not give any details as to what specific ‘tension and conflict’ at the border between Italy and Yugoslavia had lasted ‘till now’ and may not have been ‘really easy’. She may have been referring to the question of whether Trieste and Gorizia should belong to Slovenia or Italy, as discussed in the analysis of her monologue. The description of the border between Italy and Yugoslavia also remains vague. Indeed, following the Second World War, Yugoslavia had a ‘strict border’ that controlled the movement of traffic and people into the country. But already in 1948, Yugoslavia experienced a liberalisation of its migration policies and an increase in cross-border travellers (<cite data-cite="8820477/GI2GB8AN"></cite>).
-
+<!-- #endregion -->
 
 How did Termime understand the ‘strict border’ between Yugoslavia and Italy? Maybe her parents shared memories with her about their life at the border? Maybe her understanding of a ‘strict border’ is a simple equation of border controls? Termime was born in 1998, almost one decade before Slovenia joined the Schengen Area in 2007. Termime had already enjoyed freedom of movement within the European Union as an Italian citizen since her birth, and she frequently travelled to Slovenia as a child. During these border crossings, she experienced regular border controls, including the verification of identification documents. This childhood memory, paired with her experiences after Slovenia’s incorporation into the Schengen Area in 2007, may have led her to a flawed understanding of the definition of a strict border. She may associate any sort of border control with a ‘strict’ border. Even though this explanation seems plausible, it may be controversial given what Termime uttered at the end of her dialogue:
 
@@ -647,8 +622,11 @@ import IPython.display as ipd
 ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_12.m4v')  # Replace with the actual file path
 ```
 
-> ehm<br> if<br> do would you<br> what do you think?<br> You are pro eh borders or <br> like you are for closed borders or open borders<br> controlled borders or not controlled borders
-
+<!-- #region tags=["dialog-closed-open-borders-*"] -->
+| Aura | 
+| ---- |
+| ehm<br> if<br> do would you<br> what do you think?<br> You are pro eh borders or <br> like you are for closed borders or open borders<br> controlled borders or not controlled borders |
+<!-- #endregion -->
 
 Both interlocutors provide a very brief answer.
 
@@ -668,8 +646,9 @@ ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_13.m4v')  # Replace with the actual
 | &nbsp; | Well me too<br> because I can't imagine to have once again closed borders<br> like with Slovenia<br> It's<br> yeah<br> I, I can’t imagine really<br> but I'm<br> eeh<br> I am for<br> like<br> controlled borders<br> like<br> I'm not saying like<br> with like with the army or something like that<br> but like<br> a minimum of control of the border within like<br> police or something like that<br> Because<br> like it it happens that when eh<br> there's no control there is advantage<br> and it gets out of hands | &nbsp; |
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 Termime articulated an understanding of closed borders that contradicted her earlier interpretation. She clearly differentiated here between what she called a ‘closed border’, previously referred to as a ‘strict’ border, and the concept of ‘border controls’. She explained that she would like to live in a place with open borders but with a minimal level of control provided through the ‘police’, since she explained that she was afraid that ‘no control’ would lead to chaos. She did not specify what kind of control she had in mind. It seems reasonable to assume that Termime’s understanding of a strict/closed border in the historical context of the Italian-Slovenian border during communism refers to an impermeable physical barrier that cannot be crossed by ordinary citizens. A border that actually reflected such a definition was the border between the Polish People’s Republic and the Ukrainian Socialist Soviet Republic, which was a ‘hermetically sealed and exceptionally well-guarded frontier, a state which changed little until 1985’ (<cite data-cite="8820477/9Z6R95NZ"></cite>, 246), in contrast with the more open border between Yugoslavia and Italy. This could potentially imply that Termime’s knowledge about the Italian-Slovenian borderland during socialism is flawed. Interestingly, and in contrast to Aura, this fragment also shows that Termime wants to re-establish a minimum level of border control, presumably, as she is an Italian citizen, at the Italian border. At the moment of the conversation, such a border practice had not been exercised at any Italian border since 2007, when Slovenia joined the Schengen Area. It remains unclear if Termime was therefore also considering whether her personal cross-border practices would be affected by such a regulation.
-
+<!-- #endregion -->
 
 The interpretation of another fragment from the dialogue can help us to determine the reasons for Termime’s desire for control at the border. Before Termime’s plea for ‘police or something like that’, the topic of discussion between the two citizen scientists was the ‘refugee crisis’ and how the Hungarian President Viktor Orban and the Italian Minister of the Interior, Matteo Salvini, advocated for the closure of their respective state borders in 2018:
 
@@ -709,8 +688,9 @@ ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_15.m4v')  # Replace with the actual
 | &nbsp; | but with Orban they want to<br> to have the borders again and |
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 Termime’s question shows a level of detail that might indicate that she has personally seen the ‘physical border’ and experienced border ‘check[s]’. Although Termime wanted to have a conversation about border-crossing experiences to Hungary before the country joined the Schengen Area in 2007, Aura took this moment as an opportunity to draw a comparison with the border regime developed by the government led by Viktor Orban. Following the high influx of refugees in 2015, the Hungarian government initiated several anti-migration procedures to hinder asylum seekers wishing to cross the border. These included a crackdown by border guards on asylum seekers at Hungarian-Serbian border crossings, leading to violent clashes, as well as the installation of barbed-wire fences between Hungary and Serbia (<cite data-cite="8820477/WCUQEWBZ"></cite>, 552). In June 2018, roughly at the same time the Talking Borders experiment took place, the Hungarian government passed a new law that criminalised providing assistance for asylum seekers (<cite data-cite="8820477/FA7AKHR4"></cite>).
-
+<!-- #endregion -->
 
 This fragment shows how both interlocutors experienced identification checks at the border. It also indicates how they talked about these experiences from different time perspectives. While Termime hinted at Hungary’s post-communist but pre-European Union period, Aura drew a connection to his current reality. Similar entanglements of the past and the present were observed on numerous occasions during the dialogue. In the sequence about xenophobic remarks made by people in Italy and Austria, for example, Termime sought to explain such behaviour in Italy (present) by drawing on past border experiences of her parents as well as subtly hinting at past border conflicts over Trieste and Gorizia (past). In statements made following the discussion around ‘open borders’ or ‘closed borders’, this interwovenness of different time levels encompassed the past, the present and the future. In her answer, Termime first insisted on the need for an ‘open border’ (present) and dismissed the idea of a restoration of the ‘old’ border regime between Slovenia and Italy before EU membership (past). Secondly, she expressed a desire for the border regime to be changed by introducing a minimum level of control at the border (future), since the high influx in asylum seekers crossing to Italy via the Mediterranean Sea led to chaos (past) at the Italian border when no control measurements were in place. In their dialogue, the citizen scientists Termime and Aura made use of the past to attribute meaning to their understanding of the border in the present. While the historical references in Termime’s monologue refer to a distant past (Austro-Hungarian Empire), the historical references uttered during the dialogue represent a more tangible past. Aura and Termime drew on recollections of the communist and post-communist past as experienced by themselves or their relatives in order to make judgements on the border in the present and the future. The value of the dialogue therefore lies in the strategy employed by the two citizen scientists of using questions and answers to identify similarities and differences in their time-layered personal experiences.
 
@@ -810,9 +790,11 @@ display(Image("media/graph_number_of_comments.png", width=1000), metadata=metada
 ## Termime in the Digital Café
 <!-- #endregion -->
 
+<!-- #region citation-manager={"citations": {"": []}} -->
 To evaluate the usefulness of the citizen science digital café for historians, this section follows Achim Landwehr’s advice to ‘work historically’ by selecting and researching ‘present references to past times’ (<cite data-cite="8820477/RRDDC742"></cite>, 250). Of the hundred posts in the digital café, six included the word history (post 33, 44, 65, 156, 159, 224). Posts 33 and 159 generated three comments, the other original posts generated two comments. In addition, of the 226 comments, 16 included the word history, two of which were a response to a post mentioning the word history as well (post 224). The second category of posts was called ‘Now vs then’ and included ten original posts. Among the seven posts in this category not mentioning the word history, there were four posts implicitly talking about the past, which we included in the analysis as well (post 36 and 47 about grandparents; post 37 about the Treaty of Schengen and living in the borderlands, and post 40 in which Termime left a comment). We selected 22 posts and their comments for the analysis. This small number shows that when citizen scientists talked about contemporary borders in Europe, they mostly did so without referring to the past.
+<!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": ["table 2: List of all posts and comments from the Digital Caf\u00e9 referenced in this article"]}} tags=["hermeneutics", "narrative", "table-digital-cafe-*", "data-table"] -->
+<!-- #region jdh={"module": "object", "object": {"source": ["table 2: List of all posts and comments from the Digital Caf\u00e9 referenced in this article"]}} tags=["narrative", "table-digital-cafe-*", "data-table"] -->
 | PostID | PostText | User who uploaded Post | CommentID | CommentText |User who made Comment | Role |
 |-----|-----|-----|-----|-----|-----|-----|
 | 21 | When it comes to that genuine human contact and friendship, borders represent nothing, they suddenly become not important at all | Binghost | 30 | When speaking about geopolitical and economical borders this is true, but we need social and cultural limits to understand our own identity. Only when we understand who we really are we will be able to interact with other people | DeadSaint | CS |
@@ -886,9 +868,9 @@ Termime was the second most active participant in the digital café, leaving 44 
 
 >**Termime’s comment**: *During World War I, at the battle of Isonzo river (Soca), Italians were just being defeated at Caporetto (Kobarid) by the Austrian army, who started to push the Italians even further on till the river Piave. And right there, the Italian army had the strength to fight back at the Austrians because they were protecting their homeland, their borders. They understood that if they let the Austrians push any forward then that the enemy will take their home. The border united them.*
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Termime often followed up on comments Deadsaint wrote. He was the only participant from Sarajevo, a Bachelor student in history whose comment described how Italian nationalists used propaganda to strengthen the feeling that the regions of Trieste and South Tyrol belonged to and should be included within the state borders of Italy (see also <cite data-cite="8918850/4A3EZD7C"></cite> and <cite data-cite="8918850/PXQ5C8ZA"></cite>, 30–49. Termime answered incorrectly that Italian soldiers fought against ‘the Austrians’ ⁅there was no Austria, but an Austro-Hungarian Empire – MV and JJ⁆ to protect their home. Borders united Italian soldiers; borders were the ‘foundation of building’ the Italian nation (Post 40; see also <cite data-cite="8820477/G9Y5Z6B7"></cite>).
-
+<!-- #endregion -->
 
 By the moment Termime reached day 73, she had changed her mind. In a comment, she used the word ‘history’ as a rhetorical tool to bring critical distance to the discussion, but without having to provide an insight into her own opinion or life experiences. It is not clear from the comment what she thought or to what extent she thought the phenomenon she described was relevant to her.  
 
@@ -915,9 +897,9 @@ Later, however, she openly wrote about her own life experiences and connected th
 
 >**Termime’s comment**: *Totally agree with both DreamBlackberry and Deadsaint. Having many nationalities within one territory it’s a very unique experience, it has its good sides and its more complicated one. The minority from my country, basically goes back from the Austro-Hungarian empire, one of the most famous multicultural nations in history.*
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Using the myth of positive Habsburg multiculturalism (<cite data-cite="8820477/ZZHXIVV8"></cite>), Termime presented her lived experiences in the Italian-Slovenian borderland as naturally evolving from the past, thereby keeping silent about what happened in the hundred years in between. She described enjoying her life in the borderland and was happy to sympathise with two other citizen scientists on multiculturalism within countries (DreamBlackberry) or border regions (Deadsaint) (see also her comment 124 on post 104).
-
+<!-- #endregion -->
 
 In a last phase, Termime expressed how she was learning from reading the comments of other participants in the digital café and how that caused her to apply a more nuanced understanding of past bordering practices to her own worldview. Termime applied this perspective either alone (comments 249, 188, 185, 220, 86) or in response to Deadsaint (comments 47, 248) and also produced shorter interventions. In one comment, she testified in writing, for example, how studying the history of North Korea for a class at university made her think: ‘What kind of borders do we really need?’ (comment 182). At the end of the digital café, moreover, she concluded that history cannot teach you anything unless you have ‘an open perspective’ and are willing to ‘dialogue’ with others.
 
@@ -935,9 +917,9 @@ Citizen Scientist: *Maybe you have an idea how to destroy mental borders between
 
 >**Termime’s comment**: *I find myself torn on this topic. But I agree with both of you. I do not think that it is better to not consider history, regardless of how complicated and difficult it may be, because I believe that being aware of the past helps us shape the future. But then I understand DeadsSaints’ point because it is not productive to be stuck in the past. In the end, dialogue and an open perspective are key.*
 
-
+<!-- #region citation-manager={"citations": {"": []}} -->
 Additionally, the learning effect observed in Termime's comments in the digital café resembles similar findings found in a study on the use of online forums in the citizen science platform Zooniverse, in which a learning effect amongst forum users was observed by analysing the shift in the users' terminology. The study identified two groups of forum users, one group that already indicated a highly topic-specified vocabulary with no change over the course of their activity in the online forums, and a second group that acquired new terminology over time (<cite data-cite="8918850/VDUU7TTQ"></cite>, 321–322). While the study focused on the users' development of topic-specific vocabulary, the learning effects in Termine's activities in the digital café becomes evident in her strategy to reference terminology used by others in her responses. Termime used the same or similar terminology from the posts and expanded the idea conveyed in the post through additional information to indicate agreement, increase credibility of the post and to formulate her own opinion (e.g. 'Exactly, knowledge is power', comment 188),'François de La Rochefoucauld said that the only thing constant in life is change.', comment 188). In the digital café, due to its limited time-span, we cannot observe if the posts and comments articulated by other users has determined Termime's use of terminology permanently. We can, however, identify that the terminology used by others navigated her participation in the digital café, and thus would allocate her into the second group of online forum users as identified by Luczak et al.
-
+<!-- #endregion -->
 
 By the moment Termime reached the end of the digital café, she had developed a respectful relationship with Deadsaint, sometimes agreeing (comment 87), sometimes nuancing (comment 248) and sometimes rejecting (comment 105) his point of view. The digital café functioned as a learning environment for Termime, where she changed her references to the past as a result of interactions with other citizen scientists. Termime’s experience was rare – only three citizen scientists left enough comments to observe a change in attitude. We therefore conclude that the digital café had the potential to function as an innovative learning format to encourage reflection on the use of the past for meaning-making in the present.
 
@@ -949,7 +931,7 @@ By the moment Termime reached the end of the digital café, she had developed a 
 We conclude with a reflection on the data, narrative and hermeneutic layer of our article, as well as on the intertwined presentation of these layers within the Journal of Digital History. We propose to upgrade the data layer of the journal to a third layer in its own right, equal to the narrative and hermeneutic layer. We suggest extending the possibilities to store data, for example by means of a data protocol and storage possibilities for data that cannot be made available in open access because of the GDPR. Here follows a short description of why and how our data were stored in open access. We differentiated between GitHub, where we published the figures, tables, Excel tables, audio fragments and transcriptions analysed in the article. On Zenodo we stored all conversations and the archived project website including the digital café in its entirety. For a born-digital collection like ours, with a Creative Commons license, we found it regrettable that scans of the original Informed Consent Forms with the signatures of all citizen scientists, as well as a list linking the names of the citizen scientists to their pseudonyms, could not be stored with the other data behind a password.
 <!-- #endregion -->
 
-<!-- #region tags=["hermeneutics", "narrative"] -->
+<!-- #region citation-manager={"citations": {"": []}} tags=["hermeneutics", "narrative"] -->
 The narrative layer discussed how talking about borders within the three genres of storytelling of the Talking Borders experiment – the monologue, the dialogue and the digital café – led to contributions that revealed entangled perspectives on time. The citizen scientists made use of past, present and future understandings and experiences of borders to express the meaning they attach to borders today. Termime, for example, juxtaposed her childhood memory of an Italian-Yugoslavian border that was difficult to cross with her understanding of the Italian-Slovenian ‘open’ border functioning as ‘a bridge’ today. Like the other citizen scientists living in borderlands and participating in the experiment, Termime explained how personal and family memories of the border impacted her understanding and opinions of contemporary border realities and future border regulations, indicating that the past, present and future are intertwined concepts of time that cannot only be imagined but also materialise in the present (<cite data-cite="8820477/RRDDC742"></cite>, 240). Interestingly, Termime’s and Aura’s memories of the past that they used to attribute meaning to contemporary borders during the unprepared dialogue did not reach beyond two past generations, even though referring to the Austro-Hungarian Empire would have reflected the theme of the conference they attended, organised to mark the hundredth anniversary of the dissolution of the Austro-Hungarian Empire, and Termime referred to the Austro-Hungarian Empire in the monologue she had prepared in writing before attending the conference. The citizen science dialogue revealed an overlap in border experiences and practices of interlocutors from different European borderlands. This leads us to the conclusion that the border memories ingrained in the citizen scientists had a temporal limit, which may very well become less important for future generations, eventually vanish and be replaced by new memories. The analysis of how Termime referred to the past in the digital café, in turn, shows that the digital environment can support a learning process leading to a more historically contextualised understanding of border regimes, as long as citizen scientists are more actively encouraged to seriously engage with it for its entire duration.
 <!-- #endregion -->
 
