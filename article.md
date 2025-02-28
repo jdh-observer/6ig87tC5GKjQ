@@ -167,18 +167,14 @@ Bosnian|1.2|1|1
 Although some participants withdrew from the project during the preparation phase, many of them were eventually replaced. The success of the recruitment process for Talking Borders differed greatly depending on the respective country. The low participation rate for Hungary can potentially be explained by the fact that parliament passed a law at the end of June 2018 making the provision of assistance to asylum seekers a criminal activity for lawyers and activists. Although visiting a seminar on borders and migration was not included in the scope of the legislation, it may have put people off.
 <!-- #endregion -->
 
-```python
-!pip install plotly
-!pip install --upgrade pip
-```
 
-```python jdh={"module": "object", "object": {"source": ["Distribution of citizen scientists by country in percent"]}} tags=["figure-pie-chart-citizen-scientistists-country-*"]
+```python jdh={"module": "object", "object": {"source": ["Distribution of citizen scientists by country in percent"]}} tags=["figure-pie-chart-citizen-scientists-country-*"]
 import plotly.graph_objects as go
 import plotly.io as pio
 pio.renderers.default = 'notebook'
 
 # Data for the pie chart
-labels = ['Austria', 'Poland', 'Ukraine','Romania', 'Hungary', 'Croatia', 'Serbia', 'Slovenia','Italy','Slovakia', 'Czech Republic', 'Bosnia and Herzegovina']
+labels = ['Austria', 'Poland', 'Ukraine', 'Romania', 'Hungary', 'Croatia', 'Serbia', 'Slovenia', 'Italy', 'Slovakia', 'Czech Republic', 'Bosnia and Herzegovina']
 values = [29, 13, 11, 10, 8, 7, 6, 5, 3, 3, 3, 2]
 
 # Create the pie chart figure
@@ -316,7 +312,7 @@ The ethnopoetical transcription of the same fragment brings, for example, the re
 
 <!-- #region tags=["hermeneutics", "dialog-familiar-repeat-*"] -->
 | Termime |
-| ------- | 
+| ------- |
 | so to me the border it has a very familiar<br> like it’s very familiar to me<br> because I grew up on the border with Slovenia |
 <!-- #endregion -->
 
@@ -330,7 +326,7 @@ A comparison of the first and second transcription of a fragment from the dialog
 
 <!-- #region tags=["hermeneutics", "dialog-aura-*"] -->
 | Aura |
-| ------- | 
+| ------- |
 | I didn’t know anything about Sopron, for example, I, I only see that the people, the the country is, Austria is, Austria is a rich country. Hungary was always a, a poor country, and, but I had never |
 <!-- #endregion -->
 
@@ -418,8 +414,20 @@ As Michael Frisch noted, the digital era brings ‘within reach all of the conte
 ```python tags=["video-software-*"]
 from IPython.display import IFrame
 
+metadata = {
+    "jdh": {
+        "module": "object",
+        "object": {
+            "type": "video",
+            "source": [
+                "How to Analyse an Interview Fragment in the Software Program Clarin Elan"
+            ]
+        }
+    }
+}
+
 src_url = "https://cdnapisec.kaltura.com/p/2753661/sp/275366100/embedIframeJs/uiconf_id/45459391/partner_id/2753661?iframeembed=true&playerId=kaltura_player&entry_id=1_7uy0dr3v&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_gjkkigo5"
-IFrame(src_url, width=608, height=402)
+IFrame(src_url, width=608, height=402, metadata=metadata)
 ```
 
 ## Narrating Termime’s Monologue
@@ -463,7 +471,7 @@ ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_5.m4v')  # Replace with the actual 
 
 <!-- #region tags=["dialog-slovenian-italian-border-*"] -->
 | Termime |
-| ------- | 
+| ------- |
 | the Slovenian and Italian border is also quite <br> euhm torn apart because of the historical side <br> because Gorizia and Trieste where I live <br> which is the border of Italy <br> was euhm from forever part of the Austro-Hungarian Empire <br> so in reality euhm Gorizia and Trieste shouldn't be part of Italy <br> they just <br> have been there <br> and after, after the war it was taken by Italy <br> so there's also that aspect <br> so the historical aspect <br> which is <br> it’s difficult |
 <!-- #endregion -->
 
@@ -484,7 +492,7 @@ ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_6.m4v')  # Replace with the actual 
 
 <!-- #region tags=["dialog-ppl-more-open-*"] -->
 | Termime |
-| ------- | 
+| ------- |
 | so the situation today <br> I think that the people became much more open <br> and much more like keen to know the difference <br> so there’s like a saying that says that <br> no there’s not a saying <br> the pope said it that today borders should not be borders <br> so walls <br> but they should be bridges from a culture to another <br> so we shouldn’t take the borders like <br> the difference <br> but a way to connect with someone that is different from you <br> so you can learn something <br> get the knowledge that you don’t have <br> you can get to experience like food <br> and see things that are different <br> and euhm yes <br> the border <br> can became meeting point for people <br> it doesn’t have to be difficult or something like that <br> but then euhm <br> so now the border where I live from Slovenia and Italy <br> it’s it’s very it’s very peaceful it’s nothing happening there <br> but I know that like between Slovenia and Croatia <br> the border is <br> it's a very conflicted area <br> there are walls and you can’t really easily pass it <br> or like that <br> so I know that it’s a very diverse topic <br> and it’s not the same everywhere <br> like for example in America Trump wants to build a wall between Mexico and the US <br> so you can see that like he he as he says <br> he wants to take control of the situation <br> but maybe <br> the fact is that you are also kind of afraid of the difference <br> and you don’t want it to come to your euhm to your nation |
 <!-- #endregion -->
 
@@ -623,7 +631,7 @@ ipd.Audio('media/Audio_Fragments/AT_AUDIOCUT_12.m4v')  # Replace with the actual
 ```
 
 <!-- #region tags=["dialog-closed-open-borders-*"] -->
-| Aura | 
+| Aura |
 | ---- |
 | ehm<br> if<br> do would you<br> what do you think?<br> You are pro eh borders or <br> like you are for closed borders or open borders<br> controlled borders or not controlled borders |
 <!-- #endregion -->
@@ -794,7 +802,7 @@ display(Image("media/graph_number_of_comments.png", width=1000), metadata=metada
 To evaluate the usefulness of the citizen science digital café for historians, this section follows Achim Landwehr’s advice to ‘work historically’ by selecting and researching ‘present references to past times’ (<cite data-cite="8820477/RRDDC742"></cite>, 250). Of the hundred posts in the digital café, six included the word history (post 33, 44, 65, 156, 159, 224). Posts 33 and 159 generated three comments, the other original posts generated two comments. In addition, of the 226 comments, 16 included the word history, two of which were a response to a post mentioning the word history as well (post 224). The second category of posts was called ‘Now vs then’ and included ten original posts. Among the seven posts in this category not mentioning the word history, there were four posts implicitly talking about the past, which we included in the analysis as well (post 36 and 47 about grandparents; post 37 about the Treaty of Schengen and living in the borderlands, and post 40 in which Termime left a comment). We selected 22 posts and their comments for the analysis. This small number shows that when citizen scientists talked about contemporary borders in Europe, they mostly did so without referring to the past.
 <!-- #endregion -->
 
-<!-- #region jdh={"module": "object", "object": {"source": ["table 2: List of all posts and comments from the Digital Caf\u00e9 referenced in this article"]}} tags=["narrative", "table-digital-cafe-*", "data-table"] -->
+<!-- #region jdh={"module": "object", "object": {"source": ["table 2: List of all posts and comments from the Digital Caf\u00e9 referenced in this article"]}} tags=["narrative", "hermeneutics", "table-digital-cafe-*", "data-table"] -->
 | PostID | PostText | User who uploaded Post | CommentID | CommentText |User who made Comment | Role |
 |-----|-----|-----|-----|-----|-----|-----|
 | 21 | When it comes to that genuine human contact and friendship, borders represent nothing, they suddenly become not important at all | Binghost | 30 | When speaking about geopolitical and economical borders this is true, but we need social and cultural limits to understand our own identity. Only when we understand who we really are we will be able to interact with other people | DeadSaint | CS |
