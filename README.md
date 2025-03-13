@@ -1,6 +1,6 @@
 # Abstract
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/6ig87tC5GKjQ/main?filepath=chronoreferencing-italian-slovenian-borderlands-anonymous.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/6ig87tC5GKjQ/main?filepath=article.ipynb)
 
 
 This article unravels the opportunities and limits for generating new academic knowledge about the use of time in borderlands through interviews conducted and produced by citizen scientists. We narrate the experiences of a citizen scientist throughout an interdisciplinary experiment in which citizen scientists and border scholars expressed their thoughts about the meaning of borders. Analysing citizen scientist Termime’s (pseudonym) oral and written expressions as a case study with the help of Achim Landwehr’s concept of *Chronoreferenzen* (chronoreferencing), we decipher the intricate links citizen scientists identify between the past, the present and the future in the way they see borders within the three different genres practised during the experiment: a monologue, a dialogue and a digital café. 
