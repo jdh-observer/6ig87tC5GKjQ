@@ -427,7 +427,7 @@ metadata = {
 }
 
 src_url = "https://cdnapisec.kaltura.com/p/2753661/sp/275366100/embedIframeJs/uiconf_id/45459391/partner_id/2753661?iframeembed=true&playerId=kaltura_player&entry_id=1_7uy0dr3v&flashvars[streamerType]=auto&amp;flashvars[localizationCode]=en&amp;flashvars[sideBarContainer.plugin]=true&amp;flashvars[sideBarContainer.position]=left&amp;flashvars[sideBarContainer.clickToClose]=true&amp;flashvars[chapters.plugin]=true&amp;flashvars[chapters.layout]=vertical&amp;flashvars[chapters.thumbnailRotator]=false&amp;flashvars[streamSelector.plugin]=true&amp;flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&amp;flashvars[dualScreen.plugin]=true&amp;flashvars[hotspots.plugin]=1&amp;flashvars[Kaltura.addCrossoriginToIframe]=true&amp;&wid=1_gjkkigo5"
-IFrame(src_url, width=608, height=402, metadata=metadata)
+display(IFrame(src_url, width=608, height=402), metadata=metadata)
 ```
 
 ## Narrating Termime’s Monologue
