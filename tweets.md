@@ -1,0 +1,5 @@
+1) Discover how the perspective of a citizen scientist from the Italian borderlands contributes to an historical understanding of borders. This study follows the experience of an individual who shares her knowledge of shifting borders, from the collapse of communism to the impact of EU expansion to her imaginations of the border’s future. ➡️ [Link to article] #citizenscience #history #borderstudies #EU
+
+(2) This article reflects on the digital research process, including data collection, analysis, presentation and a new step, 'output criticism,' to evaluate the constraints and possibilities of digital publishing. ➡️ [Link to article] #digitalhumanities #methodology #digitalhistory"
+
+(3) Citizen science in the humanities? This article centralizes the findings of a citizen science experiment conducted at the disciplinary intersection of history and border studies. It explores how citizen scientists perceive and articulate time in relation to borders within three genres of storytelling: a monologue, a dialogue, and a digital café. ➡️ [Link to article] #citizenscience #humanities #history #borderstudies #digitalhumanities
